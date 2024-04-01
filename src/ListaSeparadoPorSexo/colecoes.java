@@ -1,4 +1,4 @@
-package DanielPaiva1;
+package ListaSeparadoPorSexo;
 
 public class colecoes {
     public static void main(String args[]){

@@ -1,4 +1,4 @@
-package danielPaiva;
+package ListaSimples;
 
 import java.util.ArrayList;
 import java.util.Collections;
